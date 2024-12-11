@@ -1,4 +1,4 @@
-# Marketing_AB_Testing_Project
+### Marketing_AB_Testing_Project
 A/B TESTING
 #### Null Hypothesis (H0): There is no difference in average weekly sales between the campaigns.
 #### Alternative Hypothesis (H1): There is a significant difference in average weekly sales between the campaigns.
